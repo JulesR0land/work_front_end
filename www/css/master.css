@@ -21,7 +21,6 @@ nav > .item {
 }
 
 nav > .item:last-child {
-    position: absolute;
     color: #eee;
     margin-left: auto;
 }
