@@ -18,6 +18,11 @@ nav > .item {
     padding: 23px;
     color: white;
     text-decoration: none;
+}
+
+nav > .item:last-child {
+    position: absolute;
+    color: #eee;
     margin-left: auto;
 }
 
